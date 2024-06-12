@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: f619df358bd21d8429022f0699174903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8586609412416501626
+    second: Sin nombre_0
+  - first:
+      213: -8550902546475072699
+    second: Sin nombre_1
+  - first:
+      213: -185706054309021591
+    second: Sin nombre_2
+  - first:
+      213: 2818294824232114979
+    second: Sin nombre_3
+  - first:
+      213: 8169095609904896652
+    second: Sin nombre_4
+  - first:
+      213: -7138867393526657439
+    second: Sin nombre_5
+  - first:
+      213: -1656824970440809551
+    second: Sin nombre_6
+  - first:
+      213: -8176452655679946509
+    second: Sin nombre_7
+  - first:
+      213: 868725541519535441
+    second: Sin nombre_8
+  - first:
+      213: -2859669355333723049
+    second: Sin nombre_9
+  - first:
+      213: -8389593989920484803
+    second: Sin nombre_10
+  - first:
+      213: -6701984624962503844
+    second: Sin nombre_11
+  - first:
+      213: -2999847165467341433
+    second: Sin nombre_12
+  - first:
+      213: 8854317893805333191
+    second: Sin nombre_13
+  - first:
+      213: 724647490186408703
+    second: Sin nombre_14
+  - first:
+      213: 5954973840629102614
+    second: Sin nombre_15
+  - first:
+      213: -3619433925619276442
+    second: Sin nombre_16
+  - first:
+      213: 5043592833997191319
+    second: Sin nombre_17
+  - first:
+      213: 1974392705053218153
+    second: Sin nombre_18
+  - first:
+      213: -168032697118339662
+    second: Sin nombre_19
+  - first:
+      213: 5770493431872620876
+    second: Sin nombre_20
+  - first:
+      213: 1424254245259936173
+    second: Sin nombre_21
+  - first:
+      213: 619658468647313249
+    second: Sin nombre_22
+  - first:
+      213: -4179996532090830378
+    second: Sin nombre_23
+  - first:
+      213: -7945245308715463956
+    second: Sin nombre_24
+  - first:
+      213: 4669150129351090945
+    second: Sin nombre_25
+  - first:
+      213: -4206384055454975107
+    second: Sin nombre_26
+  - first:
+      213: -5641632560868628364
+    second: Sin nombre_27
+  - first:
+      213: 136656682643946300
+    second: Sin nombre_28
+  - first:
+      213: 755595843632655956
+    second: Sin nombre_29
+  - first:
+      213: 6086270503142258548
+    second: Sin nombre_30
+  - first:
+      213: 2736999080868271083
+    second: Sin nombre_31
+  - first:
+      213: 954903072906920184
+    second: Sin nombre_32
+  - first:
+      213: -7855602332628821901
+    second: Sin nombre_33
+  - first:
+      213: 4366883115233129285
+    second: Sin nombre_34
+  - first:
+      213: -4337547021670909595
+    second: Sin nombre_35
+  - first:
+      213: 1167301267343523193
+    second: Sin nombre_36
+  - first:
+      213: 2054977377555727157
+    second: Sin nombre_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sin nombre_0
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 818
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777c1c44c3c92770800000000000000
+      internalID: 8586609412416501626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 832
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ce584077155980800000000000000
+      internalID: -8550902546475072699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687548d35d3c6df0800000000000000
+      internalID: -185706054309021591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b5daee5389c1720800000000000000
+      internalID: 2818294824232114979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_4
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a959cec257e5170800000000000000
+      internalID: 8169095609904896652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 742
+        width: 170
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e893ecde5adec90800000000000000
+      internalID: -7138867393526657439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 727
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e0e5b776c109e0800000000000000
+      internalID: -1656824970440809551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 786
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c56f51a7678e80800000000000000
+      internalID: -8176452655679946509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_8
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 752
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15da49df6455e0c00800000000000000
+      internalID: 868725541519535441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_9
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 754
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c534c5fd96058d0800000000000000
+      internalID: -2859669355333723049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_10
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 754
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32990557bc229b80800000000000000
+      internalID: -8389593989920484803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_11
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 754
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bfaf20e74cdf2a0800000000000000
+      internalID: -6701984624962503844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 682
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d4bd995e66e56d0800000000000000
+      internalID: -2999847165467341433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 623
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad6a4563bd0ea70800000000000000
+      internalID: 8854317893805333191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_14
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 628
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff270ff8d077e0a00800000000000000
+      internalID: 724647490186408703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 652
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f071482154a250800000000000000
+      internalID: 5954973840629102614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 692
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665277f650035cdc0800000000000000
+      internalID: -3619433925619276442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_17
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 626
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798bb1ed5f07ef540800000000000000
+      internalID: 5043592833997191319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 626
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d1d754b3766b10800000000000000
+      internalID: 1974392705053218153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 590
+        width: 108
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4c99f6270badf0800000000000000
+      internalID: -168032697118339662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_20
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 666
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490e71f339e41050800000000000000
+      internalID: 5770493431872620876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_21
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 628
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da18f86a0b7f3c310800000000000000
+      internalID: 1424254245259936173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 626
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f19c91818799800800000000000000
+      internalID: 619658468647313249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_23
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 670
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18c56fc4badf5c0800000000000000
+      internalID: -4179996532090830378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_24
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 610
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea0da8cc71dcb190800000000000000
+      internalID: -7945245308715463956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 635
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e0feed472cc040800000000000000
+      internalID: 4669150129351090945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 628
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b3db9ecfbef95c0800000000000000
+      internalID: -4206384055454975107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_27
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 656
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478e5289315e4b1b0800000000000000
+      internalID: -5641632560868628364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_28
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 658
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bfc21678085e100800000000000000
+      internalID: 136656682643946300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_29
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 644
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e6c7d9a6a6c7a00800000000000000
+      internalID: 755595843632655956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_30
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 649
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4777bb2b6c6c67450800000000000000
+      internalID: 6086270503142258548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_31
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 636
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be359bda926cbf520800000000000000
+      internalID: 2736999080868271083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_32
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 636
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0cb87194f704d00800000000000000
+      internalID: 954903072906920184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_33
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 568
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378ddea9c4b4bf290800000000000000
+      internalID: -7855602332628821901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_34
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 532
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433f1b7e094a9c30800000000000000
+      internalID: 4366883115233129285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_35
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 530
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56970c017ffedc3c0800000000000000
+      internalID: -4337547021670909595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_36
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 532
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dbfd96156133010800000000000000
+      internalID: 1167301267343523193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sin nombre_37
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 451
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334ca2890fb48c10800000000000000
+      internalID: 2054977377555727157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sin nombre_0: 8586609412416501626
+      Sin nombre_1: -8550902546475072699
+      Sin nombre_10: -8389593989920484803
+      Sin nombre_11: -6701984624962503844
+      Sin nombre_12: -2999847165467341433
+      Sin nombre_13: 8854317893805333191
+      Sin nombre_14: 724647490186408703
+      Sin nombre_15: 5954973840629102614
+      Sin nombre_16: -3619433925619276442
+      Sin nombre_17: 5043592833997191319
+      Sin nombre_18: 1974392705053218153
+      Sin nombre_19: -168032697118339662
+      Sin nombre_2: -185706054309021591
+      Sin nombre_20: 5770493431872620876
+      Sin nombre_21: 1424254245259936173
+      Sin nombre_22: 619658468647313249
+      Sin nombre_23: -4179996532090830378
+      Sin nombre_24: -7945245308715463956
+      Sin nombre_25: 4669150129351090945
+      Sin nombre_26: -4206384055454975107
+      Sin nombre_27: -5641632560868628364
+      Sin nombre_28: 136656682643946300
+      Sin nombre_29: 755595843632655956
+      Sin nombre_3: 2818294824232114979
+      Sin nombre_30: 6086270503142258548
+      Sin nombre_31: 2736999080868271083
+      Sin nombre_32: 954903072906920184
+      Sin nombre_33: -7855602332628821901
+      Sin nombre_34: 4366883115233129285
+      Sin nombre_35: -4337547021670909595
+      Sin nombre_36: 1167301267343523193
+      Sin nombre_37: 2054977377555727157
+      Sin nombre_4: 8169095609904896652
+      Sin nombre_5: -7138867393526657439
+      Sin nombre_6: -1656824970440809551
+      Sin nombre_7: -8176452655679946509
+      Sin nombre_8: 868725541519535441
+      Sin nombre_9: -2859669355333723049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
